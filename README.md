@@ -29,13 +29,13 @@ Before you begin, make sure you have the following prerequisites in place:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/oop-python.git
+   git clone https://github.com/Akash160801/python-OOP.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd oop-python
+   cd python-OOP
    ```
 
 3. Start exploring the code examples and exercises provided in each concept folder (e.g., `abstraction`, `encapsulation`, `inheritance`, `polymorphism`).
